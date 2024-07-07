@@ -1,4 +1,4 @@
-## 👋 Hello World! I'm Mariam, a passionate Software Engineer with over 2 years of hands-on experience in crafting delightful user interfaces for both web and mobile applications.
+## 👋 Hello World! I'm Mariam, a passionate Software Engineer with over 3 years of hands-on experience in crafting delightful user interfaces for both web and mobile applications.
 
 ## 🚀 Frontend Developer
 I specialize in React.js, Next.js, and React Native, bringing dynamic and performant UIs to life. My code speaks JavaScript and TypeScript, and I thrive on creating seamless user experiences.
